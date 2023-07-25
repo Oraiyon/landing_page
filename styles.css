@@ -21,8 +21,8 @@ ul{
 }
 
 .logo{
-    font-size: 24px;
-    color: #F9f8f8;
+    height: 125px;
+    width: auto;
 }
 
 .header-link, .sub-text{
@@ -79,4 +79,9 @@ h1{
     background-color: #3882f6;
     border: 1px solid #3882f6;
     border-radius: 10px;
+}
+
+.picture{
+    height: 175px;
+    width: auto;
 }
