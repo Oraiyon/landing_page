@@ -80,8 +80,20 @@ h1{
     border: 1px solid #3882f6;
     border-radius: 10px;
 }
+.second-section{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
 
 .picture{
     height: 175px;
     width: auto;
+    margin-left: 60px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-around;
 }
