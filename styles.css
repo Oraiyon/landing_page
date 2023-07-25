@@ -74,14 +74,16 @@ h1{
     gap: 16px;
 }
 
-.button{
+.button_1{
     width: 100px;
     padding: 8px 16px;
     color: #F9f8f8;
     background-color: #3882f6;
     border: 1px solid #3882f6;
     border-radius: 10px;
+    font-weight: bold;
 }
+
 .second-section{
     text-align: center;
     display: flex;
@@ -124,4 +126,38 @@ h1{
     font-size: 18px;
     font-weight: bold;
     margin-left: 315px;
+}
+
+.fourth-section{
+    padding: 150px;
+}
+
+.action{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 50px 30px;
+    border: 1px solid #3882f6;
+    border-radius: 10px;
+}
+
+.left-action, .right-action{
+    color: #F9f8f8;
+}
+
+.call{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button_2{
+    width: 125px;
+    padding: 8px 16px;
+    color: #F9f8f8;
+    background-color: #3882f6;
+    border: 2px solid #F9f8f8;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
 }
